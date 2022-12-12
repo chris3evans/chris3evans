@@ -7,7 +7,26 @@ Full-Stack Developer
 * 🌍  I'm based in London, UK
 * 🖥️  See my portfolio at [https://portfolio-christopher-evans.netlify.app/](http://portfolio-christopher-evans.netlify.app/)
 * ✉️  You can contact me at [chris3evans.ce@gmail.com](mailto:chris3evans.ce@gmail.com)
-* 🧠  I'm learning Material UI component library for React
+* 🧠  I am highly skilled in many technologies, both front-end and back-end
+
+* Front End Technologies: 
+- JavaScript
+- TypeScript
+- HTML5 & CSS3
+- React
+- Angular
+- SASS/SCSS
+- Tailwind CSS
+- Material UI
+
+* Back End Technologies: 
+- Node
+- Express
+- Koa
+- PostgreSQL
+- Sequelize
+- MongoDB
+- Mongoose
 * 🤝  I'm open to collaborating on projects with interesting and ambitious UI designs with a component style approach
 
 ### Skills
